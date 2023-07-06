@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText mMessageEditText;
 
     public static final int TEXT_REQUEST = 1;
+    // Variable PV
 
     private TextView mReplyHeadTextView;
     private TextView mReplyTextView;
